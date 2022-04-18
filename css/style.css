@@ -120,3 +120,29 @@ main {
 i {
     color: black;
 }
+
+/* aligns all boxes into a column on smaller screens */
+@media screen and (max-width: 900px) {
+    header {
+        flex-direction: column;
+    }
+
+    .profile {
+        flex-direction: column;
+    }
+
+    .experience {
+        flex-direction: column;
+    }
+
+    #mySkill {
+        flex-direction: column;
+    }
+
+    #myProject {
+        flex-direction: column;
+    }
+
+    .skill h3 {
+        font-size: 80%;
+    }
