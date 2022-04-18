@@ -90,10 +90,12 @@ main {
     align-items: center;
 }
 .project {
+    margin: 10px 0 0 10px;
+    min-width: 80%;
+}
+.lineone , .linetwo {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
-    margin: 20px;
 }
 .project h3 {
     color: black;
@@ -107,7 +109,7 @@ main {
     box-shadow: 4px 4px var(--darkshadow);
     margin-bottom: 30px;
 }
-
+/* footer */
 #contact {
     text-align: center;
     display: flex;
@@ -115,7 +117,7 @@ main {
     text-shadow: 2px 2px var(--lightShadow);
     background: linear-gradient( to left,#19547b, #ffd89b);
     padding: 10px;
-    font-size: 30px;
+    font-size: 20px;
 }
 i {
     color: black;
@@ -140,6 +142,10 @@ i {
     }
 
     #myProject {
+        flex-direction: column;
+    }
+
+    .lineone , .linetwo {
         flex-direction: column;
     }
 
