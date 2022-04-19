@@ -93,6 +93,20 @@ main {
     /* min-width: 200px; */
 }
 
+.seeMore {
+    display: flex;
+    justify-content: center;
+    margin: 60px 0 40px 0;
+}
+.seeMoreBtn {
+    width: 30%;
+    border: none;
+    background: url(https://images.pexels.com/photos/1843716/pexels-photo-1843716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) center/cover;
+    font-size: 40px;
+    font-family: 'Abril Fatface', cursive;
+    box-shadow: 3px 3px rgba(0,0,0,0.3) ;
+}
+
 #myProject {
     display: flex;
     justify-content: space-between;
