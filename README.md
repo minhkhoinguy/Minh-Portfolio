@@ -14,8 +14,11 @@ WHEN i click on the items in 'Contact Me' , takes me to the links corresponding 
 
 # Picture
 
+<img src="./pictures/portfolio1.gif">
 
+<img src="./pictures/portfolio2.gif">
 
 # Link
-Github:
-Webpage:
+Github: https://github.com/minhkhoinguy/Minh-Portfolio
+
+Webpage: https://minhkhoinguy.github.io/Minh-Portfolio/
