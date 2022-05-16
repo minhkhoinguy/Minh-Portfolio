@@ -58,3 +58,12 @@ The following image shows the web application's appearance:
 [Github](https://github.com/minhkhoinguy/Minh-Portfolio)
 
 [Webpage](https://minhkhoinguy.github.io/Minh-Portfolio)
+
+## Contact
+Contact me with the link below if you have any questions!
+
+[Github page](https://github.com/minhkhoinguy)
+
+[Email](mailto:minhkhoinguy@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/minhkhoi-nguyen-3a8b82237/)
