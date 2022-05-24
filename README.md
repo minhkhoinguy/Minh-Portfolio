@@ -25,19 +25,29 @@ I WANT to create a Portfolio page to introduce myself to employers.
 ```
 
 ## Description
-I WANT to create a Portfolio page to introduce myself to employers.
+```
+WHEN i open the website 
+THEN all my information will appear.
 
-WHEN i open the website, all my information will appear.
+WHEN i click on the shortcuts on the header
+THEN takes me to specific places on the page.
 
-WHEN i click on the shortcuts on the header , takes me to specific places on the page.
+WHEN i click 'Read More' 
+THEN my bio show more text
 
-WHEN i click 'Read More' my bio show more text
+WHEN i click 'See more'
+THEN 'My Project' will show/close.
 
-WHEN i click 'See more' , 'My Project' will show/close.
+WHEN i click on name of the projcect in 'My Project'
+THEN Github repo URL of the project open in new tab.
 
-WHEN i click on the names/images in 'My Project' , takes me to the web page of the project I clicked on.
+WHEN i click on image of the projcecst in 'My Project'
+THEN webpage/deploy URL of the project open in new tab.
 
-WHEN i click on the items in 'Contact Me' , takes me to the links corresponding to that item.
+WHEN i click on the items in 'Contact Me'
+THEN takes me to the links corresponding to that item.
+```
+
 ## Mock-Up
 
 The following image shows the web application's appearance:
