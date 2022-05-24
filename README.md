@@ -38,10 +38,10 @@ THEN my bio show more text
 WHEN i click 'See more'
 THEN 'My Project' will show/close.
 
-WHEN i click on name of the projcect in 'My Project'
+WHEN i click on name of the project in 'My Project'
 THEN Github repo URL of the project open in new tab.
 
-WHEN i click on image of the projcecst in 'My Project'
+WHEN i click on image of the project in 'My Project'
 THEN webpage/deploy URL of the project open in new tab.
 
 WHEN i click on the items in 'Contact Me'
